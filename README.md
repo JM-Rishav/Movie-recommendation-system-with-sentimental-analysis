@@ -6,8 +6,9 @@ Content Based Movie Recommendation System with Sentimental Analysis, which gives
 <div>
   The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using the API by TMDB, <a href = "">, and using the IMDB id of the movie in the API.</a>
 </div>
-  Get the API key !!
-  
+<div>
+  <h4>Get the API key !!</h4>
+  First of all create a account in 
 <div>
   
 </div>  
