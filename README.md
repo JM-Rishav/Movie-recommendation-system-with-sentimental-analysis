@@ -14,11 +14,7 @@ Content Based Movie Recommendation System with Sentimental Analysis, which gives
 
 <div>
   
-</div>  
-
-<div>
-  
-</div> 
+</div>
   
   
   
